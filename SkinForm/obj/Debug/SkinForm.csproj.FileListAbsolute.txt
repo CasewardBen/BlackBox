@@ -1,0 +1,98 @@
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\bin\Debug\SkinForm.dll
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\bin\Debug\SkinForm.pdb
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\obj\Debug\CCWin.SkinForm.resources
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\obj\Debug\CCWin.SkinMain.resources
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\obj\Debug\GenerateResource.read.1.tlog
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\obj\Debug\GenerateResource.write.1.tlog
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\obj\Debug\SkinForm.dll
+E:\2T96课程-作业\Winforms\TankCs\SkinForm\obj\Debug\SkinForm.pdb
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\bin\Debug\SkinForm.dll
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\bin\Debug\SkinForm.pdb
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\CCWin.SkinForm.resources
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\CCWin.SkinMain.resources
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\GenerateResource.read.1.tlog
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\GenerateResource.write.1.tlog
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\SkinForm.dll
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\SkinForm.pdb
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\CCWin.SkinFormTwo.resources
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\CCWin.SkinMainTwo.resources
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\CCWin.SkinControl.ChatListBox.resources
+E:\2T96课程-作业\C#OOP\CC2012\SkinForm\obj\Debug\CCWin.SkinControl.SkinTextBox.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\bin\Debug\SkinForm.dll
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\bin\Debug\SkinForm.pdb
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\bin\Debug\f_in_box.dll
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\CCWin.SkinForm.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\CCWin.SkinMain.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\CCWin.SkinFormTwo.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\CCWin.SkinMainTwo.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\CCWin.SkinControl.PassKey.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\CCWin.SkinControl.ChatListBox.resources
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\GenerateResource.read.1.tlog
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\GenerateResource.write.1.tlog
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\SkinForm.dll
+E:\2T96课程-作业\C#OOP\CC2013\SkinForm\obj\Debug\SkinForm.pdb
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\bin\Debug\SkinForm.dll
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\bin\Debug\SkinForm.pdb
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\bin\Debug\f_in_box.dll
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\CCWin.SkinForm.resources
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\CCWin.SkinMain.resources
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\GenerateResource.read.1.tlog
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\GenerateResource.write.1.tlog
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\SkinForm.dll
+E:\2T96课程-作业\Winform\分层窗体实现不规则窗口\Irregular\SkinForm\obj\Debug\SkinForm.pdb
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\SkinForm.csprojAssemblyReference.cache
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\CCWin.SkinForm.resources
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\CCWin.SkinMain.resources
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.cache
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\SkinForm.csproj.CoreCompileInputs.cache
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\SkinForm.dll
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\obj\Debug\SkinForm.pdb
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\bin\Debug\SkinForm.dll
+D:\C#大作业\无毛边异形窗体\Irregular\SkinForm\bin\Debug\SkinForm.pdb
+D:\C#大作业\ElectronicMusicTest4\SkinForm\bin\Debug\SkinForm.dll
+D:\C#大作业\ElectronicMusicTest4\SkinForm\bin\Debug\SkinForm.pdb
+D:\C#大作业\ElectronicMusicTest4\SkinForm\obj\Debug\CCWin.SkinForm.resources
+D:\C#大作业\ElectronicMusicTest4\SkinForm\obj\Debug\CCWin.SkinMain.resources
+D:\C#大作业\ElectronicMusicTest4\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+D:\C#大作业\ElectronicMusicTest4\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.cache
+D:\C#大作业\ElectronicMusicTest4\SkinForm\obj\Debug\SkinForm.csproj.CoreCompileInputs.cache
+D:\C#大作业\ElectronicMusicTest4\SkinForm\obj\Debug\SkinForm.dll
+D:\C#大作业\ElectronicMusicTest4\SkinForm\obj\Debug\SkinForm.pdb
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\bin\Debug\SkinForm.dll
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\bin\Debug\SkinForm.pdb
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\CCWin.SkinForm.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\CCWin.SkinMain.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.cache
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\SkinForm.csproj.CoreCompileInputs.cache
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\SkinForm.dll
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\SkinForm.pdb
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\SkinForm\obj\Debug\SkinForm.csprojAssemblyReference.cache
+D:\C#大作业\BlackBox 2\SkinForm\bin\Debug\SkinForm.dll
+D:\C#大作业\BlackBox 2\SkinForm\bin\Debug\SkinForm.pdb
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\SkinForm.csprojAssemblyReference.cache
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\CCWin.SkinForm.resources
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\CCWin.SkinMain.resources
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.cache
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\SkinForm.csproj.CoreCompileInputs.cache
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\SkinForm.dll
+D:\C#大作业\BlackBox 2\SkinForm\obj\Debug\SkinForm.pdb
+D:\C#大作业\BlackBox 3\SkinForm\bin\Debug\SkinForm.dll
+D:\C#大作业\BlackBox 3\SkinForm\bin\Debug\SkinForm.pdb
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\SkinForm.csprojAssemblyReference.cache
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\CCWin.SkinForm.resources
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\CCWin.SkinMain.resources
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\CCWin.Properties.Resources.resources
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.cache
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\SkinForm.csproj.CoreCompileInputs.cache
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\SkinForm.dll
+D:\C#大作业\BlackBox 3\SkinForm\obj\Debug\SkinForm.pdb

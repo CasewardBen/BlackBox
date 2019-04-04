@@ -1,0 +1,14 @@
+限于音乐文件过大，顾上传的项目中没有包含音乐文件，
+如果要正常使用该软件，请移步百度云下载音乐文件
+
+链接：https://pan.baidu.com/s/1LkV32gI-FactQ2IaGpc5ig 
+
+提取码：uti9 
+
+
+你将会下载两个文件夹
+MusicFile
+SoundFile
+下载后将这两个文件夹放在BlackBox2\MusicDatabase目录下，
+然后重启软件即可正常使用
+谢谢

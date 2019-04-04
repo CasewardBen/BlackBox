@@ -1,0 +1,15 @@
+35 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoF.wav
+69 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoC.wav
+31 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoE.wav
+67 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoD.wav
+28 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoE.wav
+25 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoE.wav
+21 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoD.wav
+20 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoC.wav
+54 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoF.wav
+49 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoE.wav
+47 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoD.wav
+44 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoD.wav
+43 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoE.wav
+40 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoE.wav
+38 ..\..\..\MusicDatabase\SoundFile\钢琴键音\pianoF.wav

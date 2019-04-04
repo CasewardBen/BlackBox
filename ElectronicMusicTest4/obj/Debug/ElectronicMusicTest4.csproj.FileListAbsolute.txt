@@ -1,0 +1,116 @@
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\bin\Debug\ElectronicMusicTest4.exe.config
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\bin\Debug\ElectronicMusicTest4.exe
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\bin\Debug\ElectronicMusicTest4.pdb
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\bin\Debug\SkinForm.dll
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\bin\Debug\SkinForm.pdb
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csprojAssemblyReference.cache
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.BeginForm.resources
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.Properties.Resources.resources
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.GenerateResource.cache
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CoreCompileInputs.cache
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CopyComplete
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.exe
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.pdb
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.MainForm.resources
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.HeadButton.resources
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.PlayButton.resources
+D:\C#大作业\ElectronicMusicTest4\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.StartButton.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\bin\Debug\ElectronicMusicTest4.exe.config
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\bin\Debug\ElectronicMusicTest4.exe
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\bin\Debug\ElectronicMusicTest4.pdb
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\bin\Debug\SkinForm.dll
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\bin\Debug\SkinForm.pdb
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.BeginForm.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.HeadButton.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.MainForm.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.PlayButton.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.Properties.Resources.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.StartButton.resources
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.GenerateResource.cache
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.exe
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.pdb
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csprojAssemblyReference.cache
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CoreCompileInputs.cache
+D:\C#大作业\ElectronicMusicTest4 - 副本 (2)\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CopyComplete
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csprojAssemblyReference.cache
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.BeginForm.resources
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.HeadButton.resources
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.MainForm.resources
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.PlayButton.resources
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.StartButton.resources
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.GenerateResource.cache
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CoreCompileInputs.cache
+D:\C#大作业\BlackBox\ElectronicMusicTest4\bin\Debug\BlackBox.exe.config
+D:\C#大作业\BlackBox\ElectronicMusicTest4\bin\Debug\BlackBox.exe
+D:\C#大作业\BlackBox\ElectronicMusicTest4\bin\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox\ElectronicMusicTest4\bin\Debug\SkinForm.dll
+D:\C#大作业\BlackBox\ElectronicMusicTest4\bin\Debug\SkinForm.pdb
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.Properties.Resources.resources
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CopyComplete
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\BlackBox.exe
+D:\C#大作业\BlackBox\ElectronicMusicTest4\obj\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\BlackBox.exe.config
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\BlackBox.exe
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.dll
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\SkinForm.dll
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\SkinForm.pdb
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.xml
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.BeginForm.resources
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.CreateForm.resources
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.HeadButton.resources
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.MainForm.resources
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.PlayButton.resources
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.Properties.Resources.resources
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.StartButton.resources
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.GenerateResource.cache
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\BlackBox.exe
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox - 副本\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csprojResolveAssemblyReference.cache
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\BlackBox.exe.config
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\BlackBox.exe
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.dll
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\SkinForm.dll
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\SkinForm.pdb
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.xml
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.BeginForm.resources
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.CreateForm.resources
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.HeadButton.resources
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.MainForm.resources
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.PlayButton.resources
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.Properties.Resources.resources
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.StartButton.resources
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.GenerateResource.cache
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CoreCompileInputs.cache
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CopyComplete
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\BlackBox.exe
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox 2\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.OwnForm.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\BlackBox.exe.config
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\BlackBox.exe
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.dll
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\SkinForm.dll
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\SkinForm.pdb
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.xml
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.BeginForm.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.CreateForm.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.HeadButton.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.MainForm.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.OwnForm.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.PlayButton.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.Properties.Resources.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.StartButton.resources
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.GenerateResource.cache
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CoreCompileInputs.cache
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csproj.CopyComplete
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\BlackBox.exe
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\BlackBox.pdb
+D:\C#大作业\BlackBox 3\ElectronicMusicTest4\obj\Debug\ElectronicMusicTest4.csprojAssemblyReference.cache
